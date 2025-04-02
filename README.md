@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**georgesbyona/georgesbyona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Georges Byona** is my ✨ _name_ ✨ and `georgesbyona` is my GitHub username & my handle in different Social Media.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
