@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Georges Byona** is my ✨ _name_ ✨ and `georgesbyona` is my GitHub username & my handle in different Social Media.
+I'm **Georges Byona** and `georgesbyona` is my handle in different Social Media.
 
 Here are some ideas to get you started:
 
