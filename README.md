@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for help with **Embedded System Training**
 - 💬 Ask me about **Flutter** & **Firebase**
 - 📫 How to reach me: **georgesbyona@gmail.com**
-- ⚡ Personal interests: *Music 🎵, Adventure 🏞️, Photography 📸, Basket 🏀, etc.*
+- ⚡ Personal interests: **Music 🎵, Adventure 🏞️, Photography 📸, Basket 🏀, etc.**
 
 #LosingTech #LosingInFlutter #LosingInFirebase
